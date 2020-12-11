@@ -1,7 +1,3 @@
-## File: phl6cw-assignment04.py 
-## Topic:  Assignment 04 Solutions
-## Name: Philip Lee
-
 ##  This assignment requires the data file 'airline_tweets.csv'.  This file
 ##  contains records of over 14000 tweets and associated information related
 ##  to a number of airlines.  You should be able to read this file in using
