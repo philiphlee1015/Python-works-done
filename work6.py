@@ -1,7 +1,3 @@
-## File: phl6cw-assignment06.py 
-## Topic:  Assignment 06 Solutions
-## Name: Philip Lee
-
 ##  This assignment requires the data file 'movies.txt'.  This file
 ##  contains records for nearly 4000 movies, including a movie ID number, 
 ##  the title (with year of release, which is not part of the title), and a 
