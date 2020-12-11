@@ -1,8 +1,3 @@
-##
-## File: assignment09.py (STAT 3250)
-## Topic: Assignment 9 
-##
-
 ##  This assignment requires data from the file 
 ##
 ##      'ncaa.csv':  NCAA Men's Tournament Scores, 1985-2019
