@@ -1,7 +1,3 @@
-## File: phl6cw-assignment07.py 
-## Topic:  Assignment 07 Solutions
-## Name: Philip Lee
-
 ##  This assignment requires data from four files: 
 ##
 ##      'movies.txt':  A file of over 3900 movies
