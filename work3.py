@@ -1,7 +1,3 @@
-## File: phl6cw-assignment03.py 
-## Topic:  Assignment 03 Solutions
-## Name: Philip Lee
-
 ##  The questions in this assignment refer to the data in the
 ##  file 'absent.csv'.  The data contains 740 records from an
 ##  employer, with 21 columns of data for each record.  (There
