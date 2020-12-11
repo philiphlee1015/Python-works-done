@@ -1,7 +1,3 @@
-## File: phl6cw-assignment01.py 
-## Topic:  Assignment 05 Solutions
-## Name: Philip Lee
-
 ##  This assignment requires the data file 'diabetic_data.csv'.  This file
 ##  contains records for over 100,000 hospitalizations for people who have
 ##  diabetes.  The file 'diabetic_info.csv' contains information on the
