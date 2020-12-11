@@ -1,8 +1,3 @@
-##
-## File: assignment02.py (STAT 3250)
-## Topic: Assignment 2
-##
-
 ## 1.
 ##
 ## 1(a) Generate an array x of 10000 random values from 
