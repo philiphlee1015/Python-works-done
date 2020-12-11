@@ -1,7 +1,3 @@
-## File: phl6cw-assignment08.py 
-## Topic:  Assignment 08 Solutions
-## Name: Philip Lee
-
 import pandas as pd
 import glob
 
